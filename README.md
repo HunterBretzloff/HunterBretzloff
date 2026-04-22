@@ -13,4 +13,4 @@ Check out my full portfolio here: [Portfolio](https://github.com/HunterBretzloff
 
 ## Featured Repositories
 - [Portfolio](https://github.com/HunterBretzloff/Portfolio)
-- [projects](https://github.com/HunterBretzloff/Portfolio/projects)
+- [projects](https://github.com/HunterBretzloff/Portfolio/projects/python_practice)
