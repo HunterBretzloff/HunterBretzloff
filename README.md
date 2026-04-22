@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Hunter Bretzloff
 
-<!--
-**HunterBretzloff/HunterBretzloff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an IT student building my skills in programming, cybersecurity, networking, and hands-on technical projects.
 
-Here are some ideas to get you started:
+## Portfolio
+Check out my full portfolio here: [Portfolio](https://github.com/HunterBretzloff/Portfolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+- Certifications
+- Python practice projects
+- Programming projects
+- Cybersecurity and networking degree
+
+## Featured Repositories
+- [Portfolio](https://github.com/HunterBretzloff/Portfolio)
+- [projects](https://github.com/HunterBretzloff/Portfolio/projects)
