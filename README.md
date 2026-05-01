@@ -12,7 +12,7 @@ Check out my full portfolio here: [Portfolio](https://github.com/HunterBretzloff
 | Certifications | In progress |
 | Python Practice Projects | Active |
 | Programming Projects | Growing |
-| Cybersecurity & Networking degree | Ongoing |
+| Associate in Applied Science degree | Ongoing |
 
 ## Featured Repositories
 
